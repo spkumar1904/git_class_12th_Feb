@@ -1,0 +1,7 @@
+void sum{
+
+    
+class B{
+
+    
+}
